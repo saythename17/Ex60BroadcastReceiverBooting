@@ -1,0 +1,2 @@
+rootProject.name='Ex60BroadcastReceiverBooting'
+include ':app'
